@@ -1,6 +1,6 @@
-n = 100000
+n = 100
 while True:
     print(n, end =' ')
-    n = n + 8
+    n = n + 21
     print('Done! ')
     
